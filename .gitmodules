@@ -1,0 +1,3 @@
+[submodule "OpenAssetImport/Plugins/OpenAssetImportPlugin"]
+	path = OpenAssetImport/Plugins/OpenAssetImportPlugin
+	url = ../OpenAssetImportPlugin.git
